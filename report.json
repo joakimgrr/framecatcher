@@ -1,0 +1,96 @@
+{
+  "pass": true,
+  "type": "full",
+  "error": null,
+  "settings": {
+    "writeToFile": true,
+    "threshold": 10,
+    "frameInterval": 10
+  },
+  "times": {
+    "splitToFrames": 15990,
+    "diffFrames": 3504
+  },
+  "result": {
+    "videoA": {
+      "frameCount": 180
+    },
+    "videoB": {
+      "frameCount": 180
+    },
+    "frames": {
+      "1": {
+        "time": 257,
+        "diff": 0
+      },
+      "11": {
+        "time": 211,
+        "diff": 0
+      },
+      "21": {
+        "time": 225,
+        "diff": 0
+      },
+      "31": {
+        "time": 188,
+        "diff": 0
+      },
+      "41": {
+        "time": 189,
+        "diff": 0
+      },
+      "51": {
+        "time": 197,
+        "diff": 0
+      },
+      "61": {
+        "time": 181,
+        "diff": 0
+      },
+      "71": {
+        "time": 188,
+        "diff": 0
+      },
+      "81": {
+        "time": 189,
+        "diff": 0
+      },
+      "91": {
+        "time": 225,
+        "diff": 0
+      },
+      "101": {
+        "time": 186,
+        "diff": 0
+      },
+      "111": {
+        "time": 180,
+        "diff": 0
+      },
+      "121": {
+        "time": 187,
+        "diff": 0
+      },
+      "131": {
+        "time": 186,
+        "diff": 0
+      },
+      "141": {
+        "time": 178,
+        "diff": 0
+      },
+      "151": {
+        "time": 177,
+        "diff": 0
+      },
+      "161": {
+        "time": 176,
+        "diff": 0
+      },
+      "171": {
+        "time": 183,
+        "diff": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "framecatcher",
+  "version": "0.1.0",
+  "description": "frame by frame video difference tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Joakim Granbohm",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "pixelmatch": "^4.0.2",
+    "pngjs": "^3.4.0",
+    "time-span": "^3.1.0",
+    "tmp-promise": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-jest": "^22.4.1",
+    "jest": "^24.7.1"
+  }
+}
