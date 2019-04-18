@@ -40,8 +40,6 @@ const createTempFolder = async () => {
   return dirInfo.path;
 };
 
-//splitVideoToFrames('./input.mp4', './frames');
-
 const readImage = (path) => {
   return new Promise((resolve, reject) => {
     fs
@@ -81,7 +79,7 @@ const getFrameCount = async (path) => {
   })
 }
 
-const frameCatch = async (
+const framecatch = async (
   videoPathA,
   videoPathB,
   settings = {
@@ -179,4 +177,4 @@ const frameCatch = async (
   return resultObject;
 };
 
-module.exports = frameCatch;
+module.exports = framecatch;
